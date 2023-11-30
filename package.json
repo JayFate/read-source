@@ -1,0 +1,17 @@
+{
+  "name": "read-source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sub-clone": "node scripts/clone-repos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "execa": "4.0.2",
+    "fs-extra": "^11.2.0",
+    "rimraf": "^5.0.5"
+  }
+}

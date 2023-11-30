@@ -132,3 +132,5 @@ dist
 
 *.code-workspace
 message.txt
+
+ts/typescript-tutorial
